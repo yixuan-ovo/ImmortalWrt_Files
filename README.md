@@ -1,6 +1,9 @@
 ## Aron Wallpaper
 luci-app-argon主题替换壁纸
 
+## 需求版本
+Xiaomi Redmi Router AX6000 (stock layout)
+
 ## 官方镜像版本、系统配置文件备份
 
 ## 增加不死uboot更新
